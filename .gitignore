@@ -1,0 +1,7 @@
+# 所有log文件
+*.log
+log/
+logs/
+# 其他日志相关
+*.out
+*.trace
